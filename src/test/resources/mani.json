@@ -1,0 +1,26 @@
+{
+	"id": 888,
+	"add": [
+		{
+			"streetname": "1st",
+			"direct": "karur",
+			"state": "tamilnadu"
+		},
+		{
+			"streetname": "2nd",
+			"direct": "trichy",
+			"state": "tamilnadu"
+		},
+		{
+			"streetname": "3rd",
+			"direct": "chennai",
+			"state": "tamilnadu"
+		}
+	],
+	"com": {
+		"comName": "mani",
+		"id": 12243
+	},
+	"phoneNo": 536464747,
+	"name": "mani"
+}
